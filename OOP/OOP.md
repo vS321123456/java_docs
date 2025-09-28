@@ -71,12 +71,14 @@ public class OOPExample {
         car1.accelerate(60);
         car1.brake();
     }
-}
+} ```` ``` ````
 
-
-# 🔑 Key Points
+---
+## 🔑 Key Points
 
 - **OOP makes code modular, reusable, and easier to maintain.
 - **Encourages modeling programs around real-world objects.
 - **Java heavily relies on OOP principles for frameworks like Spring, Hibernate, etc.
 - **Four pillars (Encapsulation, Abstraction, Inheritance, Polymorphism) form its backbone.
+
+
