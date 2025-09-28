@@ -29,14 +29,6 @@ Think of a **Car** 🚗:
 Instead of writing separate functions and global variables, OOP bundles them into a single Car object.
 
 ---
-## 🔑 Key Points
-
-- **OOP makes code modular, reusable, and easier to maintain.
-- **Encourages modeling programs around real-world objects.
-- **Java heavily relies on OOP principles for frameworks like Spring, Hibernate, etc.
-- **Four pillars (Encapsulation, Abstraction, Inheritance, Polymorphism) form its backbone.
-
----  
 
 ## 💻 Sample Code (Java)
 
@@ -80,6 +72,15 @@ public class OOPExample {
         car1.brake();
     }
 }
+```
 
+---
 
+## 🔑 Key Points
 
+- **OOP makes code modular, reusable, and easier to maintain.
+- **Encourages modeling programs around real-world objects.
+- **Java heavily relies on OOP principles for frameworks like Spring, Hibernate, etc.
+- **Four pillars (Encapsulation, Abstraction, Inheritance, Polymorphism) form its backbone.
+
+---
