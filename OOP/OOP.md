@@ -1,35 +1,38 @@
-📘 Object-Oriented Programming (OOP)
-📝 Definition
+# 📘 Object-Oriented Programming (OOP)
 
-Object-Oriented Programming (OOP) is a programming paradigm where software is structured around objects rather than functions or logic.
+## 📝 Definition
 
-An object represents a real-world entity (like a Car, BankAccount, or Student).
+Object-Oriented Programming (OOP) is a programming paradigm where software is structured around **objects** rather than functions or logic.
 
-Objects have state (fields/attributes) and behavior (methods/functions).
+An **object** represents a real-world entity (like a Car, BankAccount, or Student).
+
+Objects have **state** (fields/attributes) and **behavior** (methods/functions).
 
 Java is a pure OOP language (with some exceptions like primitive types).
 
 The four main pillars of OOP are:
 
-Encapsulation – Binding data and methods together.
+- **Encapsulation** – Binding data and methods together.
+- **Abstraction** – Hiding implementation details and exposing only necessary functionality.
+- **Inheritance** – Reusing code by deriving new classes from existing ones.
+- **Polymorphism** – One name, many forms (method overloading/overriding).
 
-Abstraction – Hiding implementation details and exposing only necessary functionality.
+---
 
-Inheritance – Reusing code by deriving new classes from existing ones.
+## 🎯 Example / Illustration
 
-Polymorphism – One name, many forms (method overloading/overriding).
+Think of a **Car** 🚗:
 
-🎯 Example / Illustration
-
-Think of a Car 🚗:
-
-State → color, brand, speed, fuel level.
-
-Behavior → start(), accelerate(), brake().
+- **State** → color, brand, speed, fuel level.
+- **Behavior** → `start()`, `accelerate()`, `brake()`.
 
 Instead of writing separate functions and global variables, OOP bundles them into a single Car object.
 
-💻 Sample Code (Java)
+---
+
+## 💻 Sample Code (Java)
+
+```java
 // A simple OOP example in Java
 class Car {
     // State (fields)
@@ -70,12 +73,10 @@ public class OOPExample {
     }
 }
 
-🔑 Key Points
 
-OOP makes code modular, reusable, and easier to maintain.
+# 🔑 Key Points
 
-Encourages modeling programs around real-world objects.
-
-Java heavily relies on OOP principles for frameworks like Spring, Hibernate, etc.
-
-Four pillars (Encapsulation, Abstraction, Inheritance, Polymorphism) form its backbone.
+- **OOP makes code modular, reusable, and easier to maintain.
+- **Encourages modeling programs around real-world objects.
+- **Java heavily relies on OOP principles for frameworks like Spring, Hibernate, etc.
+- **Four pillars (Encapsulation, Abstraction, Inheritance, Polymorphism) form its backbone.
